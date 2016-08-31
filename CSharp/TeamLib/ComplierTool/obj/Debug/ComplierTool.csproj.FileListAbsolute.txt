@@ -1,0 +1,16 @@
+F:\团队类库\模板替换\TeamLib\ComplierTool\bin\Debug\ComplierTool.exe.config
+F:\团队类库\模板替换\TeamLib\ComplierTool\bin\Debug\ComplierTool.exe
+F:\团队类库\模板替换\TeamLib\ComplierTool\bin\Debug\ComplierTool.pdb
+F:\团队类库\模板替换\TeamLib\ComplierTool\bin\Debug\Complier.dll
+F:\团队类库\模板替换\TeamLib\ComplierTool\bin\Debug\Complier.pdb
+F:\团队类库\模板替换\TeamLib\ComplierTool\obj\Debug\ComplierTool.csprojResolveAssemblyReference.cache
+F:\团队类库\模板替换\TeamLib\ComplierTool\obj\Debug\ComplierTool.exe
+F:\团队类库\模板替换\TeamLib\ComplierTool\obj\Debug\ComplierTool.pdb
+D:\code\CSharp\TeamLib\ComplierTool\bin\Debug\ComplierTool.exe.config
+D:\code\CSharp\TeamLib\ComplierTool\obj\Debug\ComplierTool.exe
+D:\code\CSharp\TeamLib\ComplierTool\obj\Debug\ComplierTool.pdb
+D:\code\CSharp\TeamLib\ComplierTool\obj\Debug\ComplierTool.csprojResolveAssemblyReference.cache
+D:\code\CSharp\TeamLib\ComplierTool\bin\Debug\ComplierTool.exe
+D:\code\CSharp\TeamLib\ComplierTool\bin\Debug\ComplierTool.pdb
+D:\code\CSharp\TeamLib\ComplierTool\bin\Debug\Complier.dll
+D:\code\CSharp\TeamLib\ComplierTool\bin\Debug\Complier.pdb

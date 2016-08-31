@@ -1,0 +1,8 @@
+F:\团队类库\模板替换\TeamLib\Complier\bin\Debug\Complier.dll
+F:\团队类库\模板替换\TeamLib\Complier\bin\Debug\Complier.pdb
+F:\团队类库\模板替换\TeamLib\Complier\obj\Debug\Complier.dll
+F:\团队类库\模板替换\TeamLib\Complier\obj\Debug\Complier.pdb
+D:\code\CSharp\TeamLib\Complier\obj\Debug\Complier.dll
+D:\code\CSharp\TeamLib\Complier\obj\Debug\Complier.pdb
+D:\code\CSharp\TeamLib\Complier\bin\Debug\Complier.dll
+D:\code\CSharp\TeamLib\Complier\bin\Debug\Complier.pdb
